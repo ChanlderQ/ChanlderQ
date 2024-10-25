@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChanlderQ
-- 👀 I’m interested in sports, computer game, and computer science
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m interested in sports, computer game, and data science
 - 📫 How to reach me. My email:shenglinqian@gmail.com
 
 <!---
